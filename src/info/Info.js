@@ -1,9 +1,5 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
@@ -12,7 +8,7 @@ export let singlePage = false;
 
 
 export const info = {
-    firstName: "Suryansh",
+    firstName: "Suryansh Shakya",
     lastName: "Shakya",
     initials: "ml", 
     position: "an aspiring Computer Scientist",
